@@ -2,6 +2,7 @@ package algorithms;
 
 public class Recursion {
 	
+	
 	public static void main(String[] args) {
 		System.out.println("Prints number before recursion");
 		fun1(3);
